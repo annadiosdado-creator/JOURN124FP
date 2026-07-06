@@ -10,3 +10,4 @@ I used the City of Berkeley Business Licenses dataset from the City of Berkeley 
 I analyzed the dataset in Google Sheets using pivot tables. I counted business licenses by business type, ownership type, city, and employee count. I used the pivot tables to create three bar charts that compare the different categories I used.
 
 ## Chart 1: Business Licenses by Business Type
+![This is a chart showing the Business Licenses by Business Type](chart1businesstype.png)
