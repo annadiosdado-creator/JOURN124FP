@@ -9,17 +9,17 @@ I used the City of Berkeley Business Licenses dataset from the City of Berkeley 
 ## Data Analysis
 I analyzed the dataset in Google Sheets using pivot tables. I counted business licenses by business type, ownership type, city, and employee count. I used the pivot tables to create three bar charts that compare the different categories I used.
 
-## Chart 1: Business Licenses by Business Type
+### Chart 1: Business Licenses by Business Type
 ![This is a chart showing the Business Licenses by Business Type](chart1businesstype.png)
 *Figure 1.* Rental property licenses were the largest business category in the dataset. Then it was followed by construction and professional services. These three business types appeared much more often than the other categories. So based on the dataset, they make up a large part of licensed businesses in Berkeley.
 **Source:** [City of Berkeley Open Data Portal](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w/about_data)
 
-## Chart 2:  Business Licenses by Ownership Type
+### Chart 2:  Business Licenses by Ownership Type
 ![This is a chart showing the Business Licenses by Ownership Type](chart2ownershiptype.png)
 *Figure 2.* Sole ownership and corporations were the two most common ownership types in the dataset. LLCs were also common, but they appeared way less often than sole ownerships and corporations. Partnerships and the remaining ownership types made up only a small portion of the business licenses in the dataset.
 **Source:** [City of Berkeley Open Data Portal](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w/about_data)
 
-## Chart 3: Business License by City
+### Chart 3: Business License by City
 ![This is a chart showing the Business License by City](chart3city.png)
 *Figure 3.* Berkeley had the largest number of business licenses in the dataset by a wide margin. Oakland and San Francisco came after, but they had way fewer business licenses than Berkeley. The other remaining cities each had small numbers of business licenses compared with the top three cities.
 **Source:** [City of Berkeley Open Data Portal](https://data.cityofberkeley.info/Business/Business-Licenses/rwnf-bu3w/about_data)
